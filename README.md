@@ -29,7 +29,7 @@ Now I am looking for an interesting  position as a QA/QC Engineer.
 - Selenium IDE
 - DevTools
 - API-testing
-- Figma, Canva
+- Figma | Canva
 
 ### 💻 Creating such documents as: 
 - Check-lists
